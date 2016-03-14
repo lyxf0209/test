@@ -1,0 +1,4 @@
+BAIDU_UNION_define({"tuid" : "u2358499_0","queryid" : "23ee1d7179cd0b9d","placement" : {"basic" : {"cname":"28006100_cpr","flowType":1,"rspFormat":1,"sellType":2,"sspId":1,"tuId":9223372032562167011,"userId":10220340}
+,"container" : {"anchoredType":1,"floated":{"trigger":8},"height":280,"sizeType":1,"slide":{},"width":336}
+,"fillstyle" : {"backgroundColor":"#FFFFFF","cloudTheme":{},"elements":[50],"flush":0,"layout":[1],"lu":{},"search":{},"txt":{"cbackground":"#FFFFFF","cborder":"#FFFFFF","cdesc":"#444444","cflush":"#e10900","ctitle":"#0000ff","curl":"#008000","number":3},"video":{}}
+,"userdefine" : "cpro_template=text_default_336_280","complement_type" : 2},"extends" : "","pdb_deliv" : {"deliv_id" : "0","deliv_des" : {},"brandad" : 0},"order_deliv" : {"deliv_id" : "0","demand_id" : "0"},"rtb_deliv" : {"deliv_id" : "0","demand_id" : "2358499"}});
